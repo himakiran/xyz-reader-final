@@ -8,5 +8,6 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="collapsing_toolbar">collapsing_toolbar</string>
 
 </resources>
