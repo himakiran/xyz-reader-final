@@ -60,6 +60,7 @@
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
                     android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 
+
                     <TextView
                         android:id="@+id/article_title"
                         style="?android:attr/textAppearanceLarge"
