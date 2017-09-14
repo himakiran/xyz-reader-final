@@ -19,6 +19,7 @@
             android:fitsSystemWindows="true"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
+
             <ImageView
                 android:id="@+id/toolbarImage"
                 android:layout_width="match_parent"
